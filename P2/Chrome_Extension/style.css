@@ -1,0 +1,38 @@
+*{
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 300px;
+}
+
+a {
+	font-family: "Roboto Mono", monospace;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: black;
+    text-decoration: underline;
+}
+
+a {
+	font-family: "Roboto Mono", monospace;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: black;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+p {
+	font-family: "Roboto", monospace;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: black;
+    text-decoration: none;
+}
