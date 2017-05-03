@@ -1,0 +1,70 @@
+h1 {
+	font-size: 30px;
+	font-family: "Roboto", Helvetica;
+	color: yellow;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Roboto", Helvetica;
+	color: yellow;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-family: "Roboto", Helvetica;
+	font-size: 15px;
+	text-decoration: underline;
+	color: white;
+	margin-bottom: 5px;
+	line-height: 150%;
+	margin-left: 50px;
+}
+
+a {
+	font-family: "Roboto Mono", monospace;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+    text-decoration: none;
+}
+
+.side {
+	position: fixed;
+	display: inline-block;
+	height: 100%;
+	width: 25%;
+	max-width: 300px;
+	
+	padding-right: 20px;
+	margin-top: -10px;
+	margin-left: -10px;
+	color: white;
+}
+
+.backgroundcolor {
+	background: linear-gradient(to bottom right, #16C8A5, #16B2C8);
+	height: 1200px;
+	width: 100%;
+	display: inline-block;
+	margin: -10px;
+}
