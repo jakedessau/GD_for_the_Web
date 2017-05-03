@@ -1,0 +1,29 @@
+* {margin: 0px; padding 0px;}
+
+body {
+	position: relative;
+	min-height: 100vh;
+	min-width: 100vw;
+
+	background: black;
+}
+
+#content {
+	color: white;
+}
+
+#pass {
+	font-size: 50px;
+	text-align: center;
+	line-height: 100vh;
+	color: white;
+	opacity: 0;
+}
+
+.text {
+	font-size: 48px;
+	font-family: 'Oxygen Mono', monospace;
+}
+
+
+
