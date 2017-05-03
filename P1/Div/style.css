@@ -1,0 +1,15 @@
+.searchbar {
+    height: 50px;
+    width: 600px;
+    background-color: #EEEEEE;
+    padding: 5px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 200px;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
