@@ -1,0 +1,13 @@
+.page {
+	width: 1280px;
+	height: 100%;
+	position: auto;
+}
+
+.smaller {
+	height: 300px;
+	position: auto;
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: 5px;
+}
