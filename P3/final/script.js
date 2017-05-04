@@ -39,6 +39,12 @@ document.getElementById('draggable-element2').onmousedown = function () {
     return false;
 };
 
+// Bind the functions...
+document.getElementById('draggable-element3').onmousedown = function () {
+    _drag_init(this);
+    return false;
+};
+
 document.onmousemove = _move_elem;
 document.onmouseup = _destroy;
 
