@@ -87,6 +87,7 @@ h1 {
 img {
 	display: block;
 	max-height: 600px;
+	max-height: 500px;
 	padding-top: 40px;
 	margin-top: 50px;
 	margin-left: 600px;
