@@ -1,6 +1,8 @@
 $(document).ready(function(){
 	// your code here
-
+	$('button').click(function() {
+    $('.announcement').toggle();
+	});
 
 		
 	// n = 0;

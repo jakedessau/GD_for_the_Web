@@ -1,0 +1,24 @@
+body {padding:10px}
+
+#draggable-element {
+  width:350px;
+  height:350px;
+  color:white;
+  padding:10px 12px;
+  cursor:move;
+  position:relative; /* important (all position that's not `static`) */
+}
+
+#draggable-element2 {
+  width:350px;
+  height:350px;
+  color:white;
+  padding:10px 12px;
+  cursor:move;
+  position:relative; /* important (all position that's not `static`) */
+}
+
+img {
+	height: 350px;
+	width: 350px;
+}

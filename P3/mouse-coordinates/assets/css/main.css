@@ -1,0 +1,14 @@
+* {margin: 0px; padding 0px;}
+
+body {
+	position: relative;
+	min-height: 100vh;
+	min-width: 100vw;
+}
+
+#position {
+	position: absolute;
+}
+
+
+
