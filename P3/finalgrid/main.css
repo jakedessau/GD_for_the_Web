@@ -1,0 +1,44 @@
+body {
+
+  background-position: 18px 11px;
+}
+
+.background {
+  height: 3000px;
+  width: 3000px;
+}
+
+.box {
+  margin: 0 auto;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 500px;
+  height: 500px;
+}
+
+img {
+	height: 500px;
+	width: 500px;
+}
+
+.text {
+  margin-top: 0;
+  color: #fff;
+  text-align: center;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.opac {
+  opacity: .8;
+}
+
+.move-cursor {
+  cursor: move;
+}
+
+.grab-cursor {
+  cursor: grab;
+  cursor: -webkit-grab;
+}

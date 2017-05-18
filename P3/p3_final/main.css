@@ -1,0 +1,210 @@
+.background {
+	width: 3000px;
+}
+
+.top {
+	position: relative;
+	height: 10px;
+}
+
+.middle {
+	position: relative;
+	height: 100px;
+}
+
+.my-special-div {
+    position: relative;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+
+img {
+	height: 600px;
+	width: 600px;
+}
+
+.header {
+	position: relative;
+    left: 100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 50ch;
+	z-index: 1;
+}
+
+.body {
+	position: relative;
+    left: 100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 400;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: 1;
+}
+
+.trip1 {
+	position: absolute;
+    left: 100px;
+    top: 1100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip2 {
+	position: absolute;
+    left: 800px;
+    top: 1100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip3 {
+	position: absolute;
+    left: 1600px;
+    top: 1100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip4 {
+	position: absolute;
+    left: 2300px;
+    top: 1100px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip5 {
+	position: absolute;
+    left: 100px;
+    top: 1750px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip6 {
+	position: absolute;
+    left: 800px;
+    top: 1750px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip7 {
+	position: absolute;
+    left: 1600px;
+    top: 1750px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip8 {
+	position: absolute;
+    left: 2300px;
+    top: 1750px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip9 {
+	position: absolute;
+    left: 100px;
+    top: 2400px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip10 {
+	position: absolute;
+    left: 800px;
+    top: 2400px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip11 {
+	position: absolute;
+    left: 1600px;
+    top: 2400px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip12 {
+	position: absolute;
+    left: 2300px;
+    top: 2400px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip13 {
+	position: absolute;
+    left: 100px;
+    top: 3000px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.trip14 {
+	position: absolute;
+    left: 800px;
+    top: 3000px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	font-size: 30px;
+	max-width: 40ch;
+	z-index: -1;
+}
+
+.route {
+	position: absolute;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 12px;
+	margin-top: 155px;
+	margin-left: 10px;
+	max-width: 25ch;
+	color: red;
+}
